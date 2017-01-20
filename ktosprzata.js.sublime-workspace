@@ -520,9 +520,11 @@
 	"buffers":
 	[
 		{
+			"file": "server.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1438,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -568,10 +570,10 @@
 	},
 	"expanded_folders":
 	[
-		"/home/backen/www/node/ktosprzata.js"
 	],
 	"file_history":
 	[
+		"/home/backen/www/node/ktosprzata.js/package.json",
 		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Resources/config/services.yml",
 		"/home/backen/www/backups/roofing-wp/wp-config.php",
 		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Device.php",
@@ -698,8 +700,7 @@
 		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Info/howItWorks.html.twig",
 		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Info/membersBenefits.html.twig",
 		"/home/backen/www/html/ata-php/web/.htaccess",
-		"/home/backen/www/html/saveprince-php/index.html",
-		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Info/ourAudit.html.twig"
+		"/home/backen/www/html/saveprince-php/index.html"
 	],
 	"find":
 	{
@@ -950,23 +951,26 @@
 			[
 				{
 					"buffer": 0,
+					"file": "server.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1438,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1438,
+								1438
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
