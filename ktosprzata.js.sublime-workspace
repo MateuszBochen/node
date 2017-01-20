@@ -1,0 +1,1071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tes",
+				"testId"
+			],
+			[
+				"rule",
+				"ruleId"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"i",
+				"integration"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"int",
+				"integrationRepo"
+			],
+			[
+				"de",
+				"dealershipId"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ve",
+				"vehicleWord"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bar",
+				"branchesCollection"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"mail",
+				"mailgun"
+			],
+			[
+				"Mai",
+				"mailgun"
+			],
+			[
+				"Mail",
+				"mailer"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"dea",
+				"dealershipPaymentCommand"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"en",
+				"entityManager"
+			],
+			[
+				"phone",
+				"Phonenumber"
+			],
+			[
+				"re",
+				"reviews"
+			],
+			[
+				"trackin",
+				"trackingNuber"
+			],
+			[
+				"retu",
+				"returnList"
+			],
+			[
+				"mai",
+				"mail"
+			],
+			[
+				"main",
+				"main2"
+			],
+			[
+				"jso",
+				"jsonString"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"Nied",
+				"niedozwolone"
+			],
+			[
+				"pat",
+				"pattern"
+			],
+			[
+				"plik",
+				"plików"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"create",
+				"createDir"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"send",
+				"sendAsDocs"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"sh",
+				"showSuccess"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"co",
+				"cookieName"
+			],
+			[
+				"coo",
+				"cookieText"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"sum",
+				"submit"
+			],
+			[
+				"th",
+				"then"
+			],
+			[
+				"fa",
+				"fail"
+			],
+			[
+				"logi",
+				"loginForm"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"has",
+				"has-error"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"coun",
+				"countryInZone"
+			],
+			[
+				"sped",
+				"speditorZone"
+			],
+			[
+				"ov",
+				"overlayContent"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"all",
+				"allPages"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"new",
+				"newData"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"selec",
+				"selectedValue"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"inv",
+				"invoiceCode"
+			],
+			[
+				"pr",
+				"prices"
+			],
+			[
+				"price",
+				"price"
+			],
+			[
+				"la",
+				"labelsApi"
+			],
+			[
+				"getS",
+				"getSpeditor"
+			],
+			[
+				"z",
+				"zones"
+			],
+			[
+				"sp",
+				"speditorSlug"
+			],
+			[
+				"getD",
+				"getDescription"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"zoe",
+				"zones"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"record",
+				"records"
+			],
+			[
+				"wo",
+				"workTime"
+			],
+			[
+				"DB",
+				"DB_PASSWORD"
+			],
+			[
+				"iF",
+				"iframe"
+			],
+			[
+				"po",
+				"pounds"
+			],
+			[
+				"wall",
+				"walletPounds"
+			],
+			[
+				"wa",
+				"walletCents"
+			],
+			[
+				"user",
+				"userOrder"
+			],
+			[
+				"date",
+				"dateInfo"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"numbers",
+				"numbersStats"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"un",
+				"unanswered"
+			],
+			[
+				"my",
+				"myStats"
+			],
+			[
+				"us",
+				"userNumber"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"tot",
+				"totalPriceModifier"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/backen/www/node/ktosprzata.js"
+	],
+	"file_history":
+	[
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Resources/config/services.yml",
+		"/home/backen/www/backups/roofing-wp/wp-config.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Device.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/ApplicationRepository.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Application.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/ApplicationType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/TestType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/RuleType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Test.php",
+		"/home/backen/www/html/ab-testing-tool-api/vendor/jms/serializer/src/JMS/Serializer/EventDispatcher/Subscriber/DoctrineProxySubscriber.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Helpers/DoctrineProxySubscriber.php",
+		"/home/backen/www/html/ab-testing-tool-api/app/config/parameters.yml",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Rule.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/TestStat.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/UserController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/ApplicationController.php",
+		"/home/backen/www/html/passbolt/app/Config/app.php",
+		"/home/backen/www/html/passbolt/app/Config/email.php",
+		"/home/backen/www/html/passbolt/app/Plugin/EmailQueue/Model/EmailQueue.php",
+		"/home/backen/www/html/passbolt/app/Controller/Component/EmailNotificatorComponent.php",
+		"/home/backen/www/html/passbolt/app/Model/EmailNotification.php",
+		"/home/backen/www/html/passbolt/app/Controller/UsersController.php",
+		"/home/backen/www/html/passbolt/app/Controller/Component/Auth/GpgAuthenticate.php",
+		"/home/backen/www/html/passbolt/app/Config/core.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/TestController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/TestStatController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/RulesController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/RuleRepository.php",
+		"/home/backen/Pulpit/status przenoszenia",
+		"/home/backen/www/html/parcelshipper-api-php/app/config/parameters.yml.dist",
+		"/etc/apache2/sites-available/ata.local.conf",
+		"/etc/apache2/sites-available/passbolt.local.conf",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/TestRepository.php",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private.asc",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private2.asc",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private3.asc",
+		"/home/backen/www/html/passbolt/app/Config/database.php",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.asc",
+		"/home/backen/www/html/passbolt/app/Config/gpg/unsecure.key",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/UserType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/User.php",
+		"/home/backen/www/html/email/footer/123/new.php",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/DealershipIntegrationsRepository.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/Domain/DoctrineDealershipIntegrationsRepository.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipIntegrationCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/config/mapping/DealershipIntegrations.orm.xml",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/DealershipIntegrations.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/public/js/ata.js",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/DealershipIntegration/manageIntegration.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/DealershipIntegration/integrationStepTwo.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/DealershipIntegration/integrationStepOne.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Dealership/changeContactDetails.html.twig",
+		"/home/backen/www/backups/index.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/config/mapping/Dealership.orm.xml",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/config/services.xml",
+		"/home/backen/Pulpit/playlist.txt",
+		"/home/backen/www/html/ata.html",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Shared/registerNow.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/DealershipPage/dealershipPage.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/layout.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipPageFilterCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Form/DealershipPageFilterType.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Emails/confirmRegistration.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Emails/dealershipAutoConfirmation.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Controller/PaymentController.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Dealership/register.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Domain/SendEmailDealershipAccountConfirmationListener.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/ConfirmDealershipCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Controller/DealershipIntegrationController.php",
+		"/home/backen/www/backups/webuyplantandmachinery.com/wp-config.php",
+		"/home/backen/www/html/email/footer/123/zrob.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Controller/DealershipPageController.php",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Controller/DefaultController.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipIntegrationCommand.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/ChangeDealershipContactDetailsCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipAccountTypeCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/VCarsDNA/Vehicle.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipPageFilterCommand.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipPaymentCommand.php",
+		"/home/backen/Pulpit/appformation-footer.html",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/DealershipPage/dealershipPage.html.twig-back",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/Domain/DoctrineDealershipRepository.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/VCarsDNA/VCarsDNA.php",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/Dealership.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/config/mapping/VehicleModel.orm.xml",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Resources/views/Default/index.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Default/index.html.twig",
+		"/home/backen/www/html/ata-php/app/config/config.yml",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Domain/FlysystemImageStorage.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/public/css/style.css",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/public/css/jquery-ui.css",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Extendes/BranchExtends.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Extendes/VehicleExtends.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/Domain/DoctrineVehicleModelRepository.php",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/VehicleModel.php",
+		"/home/backen/www/html/list.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DataFixtures/ORM/LoadVehicleModel.php",
+		"/home/backen/www/list.php",
+		"/home/backen/Pulpit/Car_makes_and_models.js",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/OurMembers/OurMembers.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/VCarsDNA/Branch.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Interfaces/VehicleInterface.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Extendes/AddressExtends.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Interfaces/AddressInterface.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Interfaces/BranchInterface.php",
+		"/home/backen/www/html/ata-php/app/config/security.yml",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/DTO/AverageReview.php",
+		"/home/backen/www/html/ata-php/src/Ata/Helpers/Slug.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/config/mapping/Address.orm.xml",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DataFixtures/ORM/LoadCountyData.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Controller/DealershipController.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Controller/VehicleModelsController.php",
+		"/home/backen/www/html/ata-php/app/DoctrineMigrations/Version20161121093124.php",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/VehicleModelRepository.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/DealershipPaymentCommandHandler.php",
+		"/home/backen/www/html/ata-php/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/Type/RadioType.php",
+		"/home/backen/www/html/ata-php/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/Type/CheckboxType.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Form/ResetPasswordType.php",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/ImageName.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/VCarsDNA/Address.php",
+		"/home/backen/www/html/ata-php/app/config/parameters.yml",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Info/howItWorks.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Info/membersBenefits.html.twig",
+		"/home/backen/www/html/ata-php/web/.htaccess",
+		"/home/backen/www/html/saveprince-php/index.html",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Info/ourAudit.html.twig"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>,/home/backen/www/node",
+			"<current file>,/home/backen/www/html/passbolt",
+			"<current file>",
+			"<current file>,/home/backen/www/vir/ata-php",
+			"<current file>,/home/backen/www/vir/ata-php/src",
+			"<current file>",
+			"/home/backen/www/html/parcelshipper-api-php/",
+			"/home/backen/www/html/parcelshipper-api-php/src",
+			"/home/backen/www/html/parcelshipper-api-php",
+			"<current file>,/home/backen/www/html/impact-express-api/",
+			"<current file>,/home/backen/www/html/impact-express-api/src",
+			"<current file>,/home/backen/www/html/talloakstreesurgery.co.uk/wp-content/themes/striking",
+			"<current file>",
+			"/home/backen/www/html/readingstoragesolutions.co.uk",
+			"/home/backen/www/html/impact-express-api/",
+			"/home/backen/www/html/impact-express-api/src",
+			"/home/backen/www/html/parcelshipper-api-php/vendor/FedexApiClass",
+			"/home/backen/www/html/impact-express-api/",
+			"/home/backen/www/html/impact-express-api/src/ParcelShipper",
+			"<current file>",
+			"<current file>,/home/backen/www/html/impact-express-api",
+			"<current file>",
+			"/home/backen/www/impact-express",
+			"<current file>",
+			"/home/backen/www/html/impact-express-api/vendor",
+			"/home/backen/www/html/parcelshipper-api-php/src",
+			"/home/backen/www/html/parcelshipper-api-php/vendor",
+			"/home/backen/www/html/parcelshipper-api-php/",
+			"/home/backen/www/html/parcelshipper-api-php/src",
+			"/home/backen/www/html/parcelshipper-api-php/src/ParcelShipper/ParcelShipperApiBundle/DataFixtures/ORM",
+			"/home/backen/www/html/impact-express-api/vendor/dts/ebay-sdk",
+			"<current file>",
+			"/home/backen/www/html/impact-express-api",
+			"<current file>",
+			"/home/backen/www/html/parcelshipper-api-php",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/vendor",
+			"<current file>,/home/backen/www/html/",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/src",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Dashboard",
+			"Editors",
+			"subscribe",
+			"beaulieu",
+			"enqueue",
+			"EmailNotification",
+			"accountRecoveryNotification",
+			"recover",
+			"EmailConfig",
+			"The GPG Server key defined in the config is not found in the gpg keyring",
+			"139.162.143.133",
+			"datasource",
+			"46.32.240.33",
+			"children",
+			"blog",
+			"appf",
+			"blog",
+			"20",
+			"fl",
+			"fla",
+			"flas",
+			"bodyType",
+			"body",
+			"empty",
+			"emp",
+			"em",
+			"files",
+			"iles",
+			"carType",
+			"url",
+			"003eff",
+			"003fee",
+			"e9e9e9",
+			"007fff",
+			"active",
+			"active\\",
+			"'Chevrolet', 'Monza'",
+			"'Citroën', 'CX'",
+			"'Chevrolet', 'Monte Carlo'",
+			"'Citroën', 'SM'",
+			"'Chevrolet', 'Vega'",
+			"'Porsche', '914'",
+			"'Ford', 'Torino'",
+			"'Plymouth', 'Roadrunner'",
+			"'Shelby', 'GT350'",
+			"'Dodge', 'Charger'",
+			"'Shelby', 'GT500'",
+			"'Mercury', 'Cougar'",
+			"'Ford', 'Country'",
+			"'Chevrolet', 'Bel Air'",
+			"'Chevrolet', 'Camaro'",
+			"'Pontiac', 'Firebird'",
+			"'Oldsmobile', 'Toronado'",
+			"'Jensen', 'Interceptor'",
+			"'Ford', 'Falcon'",
+			"'Volkswagen', 'Beetle'",
+			"'Ford', 'Fairlane'",
+			"Mini Cooper",
+			"'Plymouth', 'Fury'",
+			"'Pontiac', 'Bonneville'",
+			"LeMans",
+			"'Pontiac', 'LeMans'",
+			"'Pontiac', 'GTO'",
+			"Mustang",
+			"E-Series",
+			"Classic",
+			"Classic\nClassic",
+			"Special",
+			"Grand Prix",
+			"Tempest",
+			"Avanti",
+			"Rockette",
+			"Fillmore",
+			"Corvair",
+			"'Austin', 'Mini'",
+			"'BMW', '600'",
+			"Thunderbird",
+			"Fleetwood",
+			"Corvette",
+			"Magnificent",
+			"2CV",
+			"Imperial",
+			")",
+			"\\([0-9]+, ",
+			"\\([0-9]+,",
+			"DirectoryIndex",
+			"magicz",
+			"magi",
+			"chris@autotradeassociates.co.uk",
+			"ataChooseDealershipAccountTypeEmailAddress:",
+			"tihs",
+			"ata",
+			"cons",
+			"con",
+			"message",
+			"2551",
+			"err",
+			"allOrders",
+			"totalSum",
+			"payment",
+			"arcelshipper payment",
+			"Parcelshipper payment",
+			"makeTree",
+			"getNearestMachinesActio",
+			"dropgetNearestMachinesActio",
+			"dropgetNearestMachinesAction",
+			"drop",
+			"log",
+			"trac",
+			"order-table",
+			"tracking",
+			"    Yes Yes Yes Yes Yes",
+			"panel",
+			"show",
+			"review",
+			"track",
+			"log",
+			"logout",
+			"log",
+			"login",
+			"logo",
+			"login",
+			"file_",
+			"makeUserDir",
+			"exit",
+			"getClient",
+			"loginc",
+			"login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"c6b374",
+			"",
+			"]",
+			"[",
+			"https://impactexpress.co.uk/news",
+			" ",
+			"\t",
+			"    \t",
+			"\t",
+			"@impactexpress.co.uk",
+			"",
+			"\\n",
+			"",
+			"--\\1--",
+			"\\1",
+			"",
+			" ",
+			"",
+			" ",
+			"\\1 \\n",
+			"$1 \\n",
+			"",
+			"2015/07",
+			"",
+			"varDumpToString",
+			"  ",
+			"  2",
+			"  9",
+			"  8",
+			"  5",
+			"  1",
+			"ieEmailLogo.png",
+			"`wp_blog_",
+			"studio-rouge.staging.appformation.pl",
+			"",
+			"API_URL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/backen/www/node/ktosprzata.js"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/html/ata-php/ata.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
